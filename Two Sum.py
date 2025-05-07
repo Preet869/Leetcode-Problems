@@ -7,11 +7,17 @@
 class Solution(object):
     def twoSum(self, nums, target):
         seen = {}
-        for i, num in enumerate(nums):
+        for i, num in enumerate(nums): # for i in range(len(nums)):
             diff = target - num
             if diff in seen:
                 return [seen[diff], i]
             seen[num] = i
+
+#Topcis
+    # Hashmaps
+    # Arrays & Indexing
+    # Enumerate
+
 
 
 if __name__ == "__main__":
