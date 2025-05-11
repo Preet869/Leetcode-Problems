@@ -1,5 +1,4 @@
 # Two Sum
-
 #Problem: Given an array of integers nums and an integer target, 
 #return indices of the two numbers such that they add up to the target.
 
@@ -18,9 +17,8 @@ class Solution(object):
     # Arrays & Indexing
     # Enumerate
 
-
-
 if __name__ == "__main__":
     s = Solution()
     result = s.twoSum([2, 7, 11, 15], 9)
     print(result) 
+    
