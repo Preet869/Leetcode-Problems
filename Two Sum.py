@@ -1,6 +1,10 @@
 # Two Sum
 #Problem: Given an array of integers nums and an integer target, 
 #return indices of the two numbers such that they add up to the target.
+#Topcis
+    # Hashmaps
+    # Arrays & Indexing
+    # Enumerate
 
 #Solution:
 class Solution(object):
@@ -12,10 +16,6 @@ class Solution(object):
                 return [seen[diff], i]
             seen[num] = i
 
-#Topcis
-    # Hashmaps
-    # Arrays & Indexing
-    # Enumerate
 
 if __name__ == "__main__":
     s = Solution()
