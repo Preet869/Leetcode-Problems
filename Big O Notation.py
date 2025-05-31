@@ -115,3 +115,24 @@ print(has_pair_with_sum_optimized([2, 7, 11, 15], 9))  # True
     # 🧠 Uses extra space (set) to remember elements
     # ⏱️ Time Complexity: O(n)
     # 🧮 Space Complexity: O(n)
+####################
+
+
+# O(n!) —> Factorial Time. Adding a loop for every element.
+from itertools import permutations
+
+def generate_permutations(nums):
+    return list(permutations(nums))
+
+nums = [1, 2, 3]
+print(generate_permutations(nums))
+
+#❗ Why is O(n!) bad?
+# It grows extremely fast.
+# Even for small inputs like n = 10, you get 3,628,800 permutations.
+# This kind of algorithm can become unusable beyond n = 10–11 in practice.
+
+# 🚨 In interviews:
+# If you write an O(n!) solution, you must mention it and explain:
+# "This is a brute-force approach that generates all permutations — O(n!). We’d need to optimize this for larger inputs."
+
