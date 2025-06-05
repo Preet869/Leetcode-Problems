@@ -118,7 +118,7 @@ print(has_pair_with_sum_optimized([2, 7, 11, 15], 9))  # True
 ####################
 
 
-# O(n!) —> Factorial Time. Adding a loop for every element.
+# O(n!) —> Factorial Time. Adding a loop for every element. You are doing something bad 🚨
 from itertools import permutations
 
 def generate_permutations(nums):
