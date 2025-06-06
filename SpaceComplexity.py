@@ -1,4 +1,4 @@
-# Space Complexity
+# Space Complexity #
 
 # Space complexity measures how much memory (or space) an algorithm uses relative to the size of its input. 
 # It’s like asking, “How much room does this algorithm need to do its job?” 
