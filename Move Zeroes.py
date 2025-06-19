@@ -1,7 +1,6 @@
 # 283. Move Zeroes
 #Problem: Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.
 
-
 class Solution(object):
     def moveZeroes(self, nums):
         insert_pos = 0  # This will point to the position where the next non-zero element should go
