@@ -84,7 +84,6 @@ def print_all_pairs(numbers):
     # Try to remove the inner loop.
     # Consider using a hash map or sorting with two pointers to avoid nested iterations.
 
-
 # Example: ❌ Brute Force (Quadratic Time — O(n²))
 def has_pair_with_sum_brute_force(arr, target):
     for i in range(len(arr)):
@@ -117,7 +116,6 @@ print(has_pair_with_sum_optimized([2, 7, 11, 15], 9))  # True
     # 🧮 Space Complexity: O(n)
 ####################
 
-
 # O(n!) —> Factorial Time. Adding a loop for every element. You are doing something bad 🚨
 from itertools import permutations
 
@@ -135,4 +133,3 @@ print(generate_permutations(nums))
 # 🚨 In interviews:
 # If you write an O(n!) solution, you must mention it and explain:
 # "This is a brute-force approach that generates all permutations — O(n!). We’d need to optimize this for larger inputs."
-
