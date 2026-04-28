@@ -4,8 +4,6 @@ Welcome to my LeetCode solutions repository! This is where I track my journey th
 
 > *"The expert in anything was once a beginner."* — Keep grinding, keep growing.
 > ---
-> 
->
 > ## 📌 About This Repo
 >
 > This repository contains my personal solutions to [LeetCode](https://leetcode.com/) problems, written primarily in **Python**. Each file is named after the problem it solves. Problems are organized by topic and difficulty to make navigation easy.
