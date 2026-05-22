@@ -15,7 +15,6 @@ Welcome to my LeetCode solutions repository! This is where I track my journey th
 > | Sliding Window | Maximum Subarray |
 > | String Manipulation | Longest Common Prefix |
 > | Math & Logic | Palindrome Number |
->
 > ---
 > ## 🏆 Progress Tracker
 >
