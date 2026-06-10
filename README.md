@@ -22,8 +22,6 @@ Welcome to my LeetCode solutions repository! This is where I track my journey th
 > | 🟢 Easy    | In progress |
 > | 🟡 Medium  | In progress |
 > | 🔴 Hard    | Coming soon |
->
-> 
 > ---
 > ## 🚀 Goals
 >
