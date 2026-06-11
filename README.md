@@ -24,7 +24,7 @@ Welcome to my LeetCode solutions repository! This is where I track my journey th
 > | 🔴 Hard    | Coming soon |
 > ---
 > ## 🚀 Goals
->
+> 
 > - [ ] Solve 100 LeetCode problems
 > - [ ] - [ ] Cover all major data structure and algorithm topics
 > - [ ] - [ ] Improve time and space complexity awareness
