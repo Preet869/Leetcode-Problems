@@ -12,7 +12,7 @@ class Solution(object):
         map = {}
         # loop through the list
         for i in range(len(nums)):
-            # Store the index 
+            # Get the current number
             num = nums[i]
             # Equation to find the target value
             needed = target - nums[i]
