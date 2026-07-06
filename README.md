@@ -32,7 +32,6 @@ Welcome to my LeetCode solutions repository! This is where I track my journey th
 > - [ ] ## 🛠️ How to Use
 >
 > - [ ] Each solution file is named after the problem (e.g., `Contains Duplicate.py`). Open any file to view the solution. Commit messages include the problem name and number for reference.
->
 > - [ ] ---
 >
 > - [ ] ## 📬 Connect
