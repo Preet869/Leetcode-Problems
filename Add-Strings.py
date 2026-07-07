@@ -9,8 +9,6 @@ Even though there are two strings, we process them in a single loop using two po
 so the total work scales linearly with the length of the longer string.”
 """
 
-
-
 class Solution(object):
     def addStrings(self, num1, num2):
         """
