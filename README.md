@@ -16,6 +16,8 @@ Welcome to my LeetCode solutions repository! This is where I track my journey th
 > | String Manipulation | Longest Common Prefix |
 > | Math & Logic | Palindrome Number |
 > ---
+
+
 > ## 🏆 Progress Tracker
 > | Difficulty | Status |
 > |------------|--------|
